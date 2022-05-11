@@ -4,8 +4,7 @@
 #   Author: ptpt52
 #=================================================
 
-name: x-wrt-master=x86_64
-
+name: x-wrt-master=ramips-mt7621
 on: 
   release:
     types: [published]
